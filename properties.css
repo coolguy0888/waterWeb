@@ -1,0 +1,47 @@
+body{
+  background-color: powderblue;
+  background-image: url("http://www.alliphonewallpapers.com/images/wallpapers/640/3y0s7fu0w.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+}
+
+li{
+  list-style: none;
+  text-align: center;
+  color: black;
+  padding-bottom: 20px;
+
+}
+
+a{
+  font-family: sans-serif;
+  color: white;
+  text-decoration: none;
+  font-size: 30px
+
+}
+
+h1, #states{
+  padding-top: 80px;
+  color: white;
+  font-size: 25;
+  font-style: bold;
+
+}
+
+p{
+  font-size: 30px;
+  color: white;
+  line-height: 30px;
+
+}
+#properties_water_video{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 40px;
+  height: 400;
+  width: 600;
+
+}

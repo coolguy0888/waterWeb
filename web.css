@@ -1,0 +1,42 @@
+*{
+  margin: none;
+
+}
+body{
+  background-color: #c2e4ff;
+  background-image: url(https://cdn.pixabay.com/photo/2015/03/26/10/48/water-692027_960_720.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+p{
+  font-size: 25px;
+  color: #ffffff;
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+
+
+li{
+  list-style: none;
+  text-align: center;
+  color: black;
+  padding-bottom: 20px;
+
+}
+
+a{
+  font-family: sans-serif;
+  color: white;
+  text-decoration: none;
+  font-size: 30px
+
+}
+#waterBird{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
